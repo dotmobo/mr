@@ -1,6 +1,7 @@
-# Gitlab Merge Requests Board
+Gitlab Merge Requests Board
+============================
 
-This script shows a board with all the merge requests of starred projects.
+This script shows in the terminal a board with all merge requests of your starred projects.
 
 * Install Python 3.10 and Poetry : https://python-poetry.org/
 * Run *poetry install* to install dependencies
